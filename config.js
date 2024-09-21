@@ -17,9 +17,9 @@ global.Contributor = '2348037262141'
 global.NamaOwner = '☠︎☬฿ʌtɱʌŋ☬☠︎' //gausah diganti 
 global.sessionName = 'spider'//session name
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
-global.author = '☠︎☬฿ʌtɱʌŋ☬☠︎' //ganti aj klo mau
-global.packname = '🕷️ 𝕾𝖕𝖎𝖉𝖊𝖗🕷️ 🕸️𝖂𝖊𝖇🕸️' //ganti aj klo mau
+global.namabot = 'MONTANA ' //ganti aj klo mau
+global.author = '☠︎☬KENTON X ☠︎' //ganti aj klo mau
+global.packname = '🕷️ KENOPACK🕸️' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 2GB Cpu: 70% - 5.000/bln
@@ -33,7 +33,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 global.country = `234`
 
 global.system = {
-    gmail: `samuelcircute@gmail.com`,
+    gmail: `xkenton0@gmail.com`,
 }
 
    //Respon
