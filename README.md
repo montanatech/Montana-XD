@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Montanatech"><img title="Author" src="https://img.shields.io/badge/Montana XD-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Montanatech"><img title="Author" src="https://img.shields.io/badge/Montana-XD-Bot?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/montanatech-?tab=followers"><img title="Followers" src="https://img.shields.io/github.com/followers/montanatech?label=Followers&style=social"></a>
@@ -52,7 +52,9 @@ csharp
 # Instalasi
 * [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/montanatech/montana XD)
-## Heroku  
+
+
+## Heroku 
 bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
@@ -68,8 +70,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## Contact Me
   
-* [channel] (montanatech/Montana)
-* [Whatsapp channel] (https:// .whatsapp.com/send?phone=+263789432940)
+* [MONTANA] (https://github.com/montanatech/MontanaXD)
+* [Whatsapp channel] (https://wa.me/+263789432940)
 *
 * 
 * This base was created by montanatech 
