@@ -21,9 +21,13 @@
 
 csharp
 > git clone https://github.com/montanatech/Montana-XD-Bot
+
 > apt-get update -y
+
 > apt-get upgrade -y
+
 > apt-get install -y git
+
 > sh wibu.sh
 `
 
