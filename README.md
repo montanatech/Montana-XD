@@ -51,14 +51,14 @@ csharp
 
 # Instalasi
 * [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/montanatech/montana XD)
+* [Heroku](https://heroku.com/deploy?template=https://github.com/montanatech/montana XD)
 
 
 ## Heroku 
 * bash
 * heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+* [HEROKU](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* [HEROKU](https://github.com/clhuang/heroku-buildpack-webp-binaries.git)
 
 
 
