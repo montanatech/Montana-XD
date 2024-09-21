@@ -89,12 +89,12 @@ const question = (text) => {
 
 // Create Display Console 
 const welcomeMessage = `
-[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝖐𝖎𝖓𝖌 𝖘𝖆𝖒⿻ ༑]]
+[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 MAGICAL KX⿻ ༑]]
 ┏─•⛩️ ${global.namabot} ⛩️•─⬣[⿻
 
 👋 Hii, I Am ${global.namabot}
  [⿻] ${ucapanWaktu}
- [⿻] 🌌 Version        : 2.0.0
+ [⿻] 🌌 Version        : 1.0.0
  [⿻] 👤 Owner  	     : ${global.NamaOwner}
  [⿻] 📚 Library       : WBaileys MD
  [⿻] 📱 Status         : Online
@@ -103,7 +103,7 @@ const welcomeMessage = `
  [⿻] 🌎 Base By    : ${global.author}
 
 ┗─•🌈 ${global.namabot} 🌈•─⬣[⿻
-[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝖐𝖎𝖓𝖌 𝖘𝖆𝖒༢⿻ ༑]]
+[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 MAGICAL KX༢⿻ ༑]]
 `;
 
 // Asynchronous function to start ryoroyko
@@ -128,7 +128,7 @@ async function ryoroykoStart() {
   if (usePairingCode && !ryoroyko.authState.creds.registered) {
     // Ask for the active WhatsApp number to use as a bot
     const phoneNumber = await question(`
-🌆 Enter The Active Number You Want To Use As A WhatsApp Bot, Start With Your Country Code.❗ > Example: 2547262836258. Now, Try To Follow The Instructions I Gave
+🌆 Enter The Active Number You Want To Use As A WhatsApp Bot, Start With Your Country Code.❗ > Example: 263789432940. Now, Try To Follow The Instructions I Gave
 
 🌤️ WhatsApp Number:
 `);
