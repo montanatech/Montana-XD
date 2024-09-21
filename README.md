@@ -55,10 +55,10 @@ csharp
 
 
 ## Heroku 
-bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+* bash
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 
@@ -70,8 +70,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## Contact Me
   
-* [MONTANA] (https://github.com/montanatech/MontanaXD)
-* [Whatsapp channel] (https://wa.me/+263789432940)
+* [MONTANA](https://github.com/montanatech/MontanaXD)
+* [Whatsapp channel](https://wa.me/+263789432940)
 *
 * 
 * This base was created by montanatech 
