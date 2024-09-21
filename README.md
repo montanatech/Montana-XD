@@ -43,10 +43,15 @@ csharp
 
 csharp
 🦠| .You need to scan and get session using pair code
+
 🦠| .Upload session to { Daggerses }
+
 🦠| .Go to [Heroku](heroku.com) Login 
+
 🦠| .Create a new app
-🦠| .Add the Build packs Below 
+
+🦠| .Add the Build packs Below
+
 🦠| .👇👇
 
 # Instalasi
